@@ -1,7 +1,6 @@
 // @flow
 
-import admin from 'firebase-admin';
-
+import * as admin from 'firebase-admin'; 
 import type { Stats } from 'shared/types/state';
 
 export async function getStats(): Promise<Stats> {
