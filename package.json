@@ -21,7 +21,7 @@
     "start": "babel-node server/start-prod.js"
   },
   "dependencies": {
-    "acorn": "^7.0.0",
+    "acorn": "^7.1.1",
     "body-parser": "^1.19.0",
     "classnames": "^2.2.6",
     "clipboard": "^2.0.4",
